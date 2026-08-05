@@ -85,4 +85,4 @@ cp pet.json spritesheet.png ~/.codex/pets/yuexinmiao-2/
 
 ## 素材与授权提醒
 
-这个仓库只是整理和打包本地宠物文件。素材来源与署名请查看 `NOTICE.md`。在公开传播或二次创作前，请自行确认原始素材的授权和分享范围。
+这个仓库只是整理和打包本地宠物文件。素材来源与署名请查看 `NOTICE.md`。
