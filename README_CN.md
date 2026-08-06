@@ -33,7 +33,7 @@
 
 ## 这版做了什么改动
 
-- 保留了 `Tinsiag/YueXinMiaoPet` 版本的月薪猫的大部分动作。
+- 保留了 `Tinsiag/YueXinMiaoPet` 版本里月薪猫的大部分动作。
 - 将 `waiting` 等待动作替换成了`payday-cat`的 `waiting` 行。
 - 使用 PNG 作为最终图集格式，避免透明区域在 WebP 保存后出现隐藏颜色残留。
 - 已通过本地校验：`1536 x 1872`、8 列、9 行、透明区域干净。
