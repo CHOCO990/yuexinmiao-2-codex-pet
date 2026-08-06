@@ -35,6 +35,9 @@ This package contains 9 standard animations:
 
 ## Changes In This Version
 
+- Retains most of the actions from the `Tinsiag/YueXinMiaoPet` version.
+- Replaces the original `waiting` action with the `waiting` action from the `LLMPET assets/cat`.
+
 - Preserves the main YueXinMiao 2 character and animation set.
 - Replaces the `waiting` row with the `waiting` animation from the local 月薪猫 pet.
 - Uses PNG for the final atlas so transparent pixels remain clean.
