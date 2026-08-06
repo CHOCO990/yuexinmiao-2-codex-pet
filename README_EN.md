@@ -34,12 +34,10 @@ This package contains 9 standard animations:
 
 ## Changes In This Version
 
-- Retains most of the YueXinMao animations from the `Tinsiag/YueXinMiaoPet` version.  
-- Replaces the `waiting` animation with the `waiting` action from `payday-cat`.
+- Preserves the main YueXinMiao 2 character and animation set.
+- Replaces the `waiting` row with the `waiting` animation from the local 月薪猫 pet.
 - Uses PNG for the final atlas so transparent pixels remain clean.
 - The atlas was checked locally for the expected `1536 x 1872` size, 8-column x 9-row layout, and transparent background.
-
-
 
 ## Installation
 
