@@ -1,4 +1,5 @@
 # YueXinMiao 2 Codex Desktop Pet
+[中文 README](README.md) | [English README](README_EN.md)
 
 This repository contains a local Codex desktop pet package named **月薪猫2**.
 The spritesheet is organized in the Codex 9-row standard animation format.
